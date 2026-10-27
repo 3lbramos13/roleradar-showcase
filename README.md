@@ -48,6 +48,7 @@ RoleRadar is an AI-assisted career preparation platform that converts complex re
 ## Demo
 
 - [Live Demo](https://role-radar-neon.vercel.app/)
+- [Product Walkthrough](https://youtu.be/mMojkcUaCUg)
 
 ## Source Availability
 
